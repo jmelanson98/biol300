@@ -1,6 +1,6 @@
 # Welcome to BIOL 300, LO3 and L10
 
-The purpose of this repo is mainly for me to share slides from lab, but I may also post some code snippets or other updates...we'll see! 
+The purpose of this repo is for me to share slides from lab, but I may also post some code snippets or other updates...we'll see! 
 
 Please be aware that all important course materials can be found on **Canvas**, and that any resources linked here will also be shared on the course **Piazza**
 
